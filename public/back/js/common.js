@@ -15,6 +15,24 @@ $(document).ajaxStop(function(){
     },500);
 });
 
+// 在一进入页面进行登录状态获取
+if(location.href.indexOf("login.html") === -1){
+    $.ajax({
+        url:"/employee/checkRootLogin",
+        type:"get",
+        success:function(info){
+            console.log(info);
+            if(info.success){
+                console.log("登录了");
+            }
+
+            if(info.error === 400){
+                location.href = "login.html";
+            }
+        }
+    })
+}
+
 $(function(){
     // 1. 二级分类切换功能
     $('.category').click(function(){
