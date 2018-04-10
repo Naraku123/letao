@@ -1,0 +1,53 @@
+[33mcommit 26474a82cc7d6a3be48af1165acb11de4433a1b1[m[33m ([m[1;36mHEAD -> [m[1;32mindex[m[33m)[m
+Author: fnj <fnj.com>
+Date:   Mon Apr 9 22:34:25 2018 +0800
+
+    移动端首页完成
+
+[33mcommit 5aaba596237f207a7f33644326ca25731f9f35e6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: fnj <fnj.com>
+Date:   Mon Apr 9 20:22:22 2018 +0800
+
+    商品管理完成
+
+[33mcommit 9c7cceb3d775df545ce04907f82e819b4fa96fad[m
+Author: fnj <fnj.com>
+Date:   Mon Apr 9 18:23:31 2018 +0800
+
+    二级分类完成
+
+[33mcommit 0d56833f32a4e5657c7f9b9d42047e585db8262f[m
+Author: fnj <fnj.com>
+Date:   Mon Apr 9 13:42:42 2018 +0800
+
+    一级分类完成
+
+[33mcommit dc77876828b0ecc5b04bd037c127203f893f67ad[m
+Author: fnj <fnj.com>
+Date:   Sat Apr 7 21:22:23 2018 +0800
+
+    用户管理完成
+
+[33mcommit dda728955b0740b1be5cb9bfe2730af9f6df86d6[m
+Author: fnj <fnj.com>
+Date:   Sat Apr 7 19:54:18 2018 +0800
+
+    首页完成
+
+[33mcommit eb39c9bafdb0adbad4d2dafce25411a225dd341e[m
+Author: fnj <fnj.com>
+Date:   Fri Apr 6 22:35:19 2018 +0800
+
+    首页完成一半
+
+[33mcommit 413e88ef6b1dbdd6bfa1af2eb9cbef05b20e4bc5[m
+Author: fnj <fnj.com>
+Date:   Fri Apr 6 21:08:10 2018 +0800
+
+    登录功能完成
+
+[33mcommit e7f14e52de3bb17f1f61c648d7afa442fa4ba055[m
+Author: fnj <fnj.com>
+Date:   Fri Apr 6 14:33:17 2018 +0800
+
+    第一次提交
